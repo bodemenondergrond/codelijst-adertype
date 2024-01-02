@@ -1,8 +1,8 @@
-# codelijst-adertypes
+# codelijst-adertype
 
 ## Samenvatting
 
-De codelijst 'adertypes' bevat eenduidige benamingen van ...
+De codelijst 'adertype' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

@@ -1,0 +1,162 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:9    rdf:type           skos:Concept;
+        dc:identifier      "9";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "blende"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:3    rdf:type           skos:Concept;
+        dc:identifier      "3";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "dicht met kwarts"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:16   rdf:type           skos:Concept;
+        dc:identifier      "16";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "milleriet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:10   rdf:type           skos:Concept;
+        dc:identifier      "10";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "galeniet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:4    rdf:type           skos:Concept;
+        dc:identifier      "4";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "open met carbonaat"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:20   rdf:type           skos:Concept;
+        dc:identifier      "20";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "mangaan"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:17   rdf:type           skos:Concept;
+        dc:identifier      "17";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "gips"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:11   rdf:type           skos:Concept;
+        dc:identifier      "11";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "pyriet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:5    rdf:type           skos:Concept;
+        dc:identifier      "5";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "dicht met carbonaat"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:21   rdf:type           skos:Concept;
+        dc:identifier      "21";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "klei (groen)"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:18   rdf:type           skos:Concept;
+        dc:identifier      "18";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "anhydriet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:12   rdf:type           skos:Concept;
+        dc:identifier      "12";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "calciet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:6    rdf:type           skos:Concept;
+        dc:identifier      "6";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "sulfide"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:0    rdf:type           skos:Concept;
+        dc:identifier      "0";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "onbepaald"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:22   rdf:type           skos:Concept;
+        dc:identifier      "22";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "blinkend / kolig / bitumineus"@nl;
+        skos:topConceptOf  cs:adertype .
+
+cs:adertype  skos:hasTopConcept  ct:1 , ct:19 , ct:13 , ct:7 , ct:14 , ct:16 , ct:21 , ct:4 , ct:15 , ct:17 , ct:11 , ct:22 , ct:5 , ct:12 , ct:8 , ct:2 , ct:9 , ct:20 , ct:3 , ct:10 , ct:0 , ct:18 , ct:23 , ct:6 .
+
+ct:19   rdf:type           skos:Concept;
+        dc:identifier      "19";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "haliet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:13   rdf:type           skos:Concept;
+        dc:identifier      "13";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "dolomiet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+colt:adertype  rdf:type       skos:Collection;
+        dc:identifier         "adertype";
+        skos:inScheme         <file:///tmp/RtmpE7BThP/cs>;
+        skos:mappingRelation  <file:///tmp/RtmpE7BThP/adertype>;
+        skos:member           ct:15 , ct:11 , ct:1 , ct:12 , ct:18 , ct:8 , ct:21 , ct:2 , ct:9 , ct:22 , ct:3 , ct:19 , ct:10 , ct:16 , ct:6 , ct:7 , ct:17 , ct:13 , ct:20 , ct:14 , ct:23 , ct:4 , ct:0 , ct:5;
+        skos:prefLabel        "Collectie van adertype."@nl .
+
+ct:7    rdf:type           skos:Concept;
+        dc:identifier      "7";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "gemengd"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:1    rdf:type           skos:Concept;
+        dc:identifier      "1";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "kaoliniet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:23   rdf:type           skos:Concept;
+        dc:identifier      "23";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "chalcopyriet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:14   rdf:type           skos:Concept;
+        dc:identifier      "14";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "hatchettiet"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:8    rdf:type           skos:Concept;
+        dc:identifier      "8";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "breccie"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:2    rdf:type           skos:Concept;
+        dc:identifier      "2";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "open met kwarts"@nl;
+        skos:topConceptOf  cs:adertype .
+
+ct:15   rdf:type           skos:Concept;
+        dc:identifier      "15";
+        skos:inScheme      cs:adertype;
+        skos:prefLabel     "kwarts"@nl;
+        skos:topConceptOf  cs:adertype .
