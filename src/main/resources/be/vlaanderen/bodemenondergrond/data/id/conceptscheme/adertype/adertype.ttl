@@ -1,162 +1,211 @@
-@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/> .
-@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
-@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/> .
-@prefix dc:   <http://purl.org/dc/elements/1.1/> .
-@prefix dct:  <http://purl.org/dc/terms/> .
-@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
-@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix concept: <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/>.
+@prefix collectie: <https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/>.
+@prefix access_right: <http://publications.europa.eu/resource/authority/access-right/>.
+@prefix adms: <http://www.w3.org/ns/adms#>.
+@prefix assettype: <http://purl.org/adms/assettype/>.
+@prefix conceptscheme: <https://data.omgeving.vlaanderen.be/id/conceptscheme/>.
+@prefix country: <http://publications.europa.eu/resource/authority/country/>.
+@prefix datasets: <https://datasets.omgeving.vlaanderen.be/>.
+@prefix datatheme_be: <http://vocab.belgif.be/auth/datatheme/>.
+@prefix datatheme_eu: <http://publications.europa.eu/resource/authority/data-theme/>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix eurovoc: <http://eurovoc.europa.eu/>.
+@prefix file_type: <http://publications.europa.eu/resource/authority/file-type/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix formats: <http://www.w3.org/ns/formats/>.
+@prefix frequency: <http://publications.europa.eu/resource/authority/frequency/>.
+@prefix gemet: <http://www.eionet.europa.eu/gemet/concept/>.
+@prefix licence: <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/>.
+@prefix metadata: <https://data.omgeving.vlaanderen.be/ns/metadata#>.
+@prefix omg_catalog: <https://data.omgeving.vlaanderen.be/id/catalog/>.
+@prefix omg_catalog_doc: <https://data.omgeving.vlaanderen.be/doc/catalog/>.
+@prefix omg_collection: <https://data.bodemenondergrond.vlaanderen.be/id/collection/>.
+@prefix omg_dataservice: <https://data.bodemenondergrond.vlaanderen.be/id/dataservice/>.
+@prefix omg_dataset_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/dataset/>.
+@prefix omg_dataset: <https://data.bodemenondergrond.vlaanderen.be/id/dataset/>.
+@prefix omg_distribution_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/distribution/>.
+@prefix omg_distribution: <https://data.bodemenondergrond.vlaanderen.be/id/distribution/>.
+@prefix omg_graphcollection: <https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/>.
+@prefix omg_graph: <https://data.bodemenondergrond.vlaanderen.be/id/graph/>.
+@prefix omg_id: <https://data.bodemenondergrond.vlaanderen.be/id/>.
+@prefix omg_named_graph: <https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/>.
+@prefix omg_ontology: <https://data.bodemenondergrond.vlaanderen.be/id/ontology/>.
+@prefix omg_package: <https://data.bodemenondergrond.vlaanderen.be/id/package/>.
+@prefix omg_periodoftime: <https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/>.
+@prefix omg_service: <https://data.bodemenondergrond.vlaanderen.be/id/service/>.
+@prefix omg_vcard: <https://data.bodemenondergrond.vlaanderen.be/id/vcard/>.
+@prefix ovo: <http://data.vlaanderen.be/id/organisatie/>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix repo: <https://repo.omgeving.vlaanderen.be/artifactory/release/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix spdx: <http://spdx.org/rdf/terms#>.
+@prefix ssd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix ts: <http://www.w3.org/ns/formats/>.
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix wise: <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/>.
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-ct:9    rdf:type           skos:Concept;
-        dc:identifier      "9";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "blende"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:3    rdf:type           skos:Concept;
-        dc:identifier      "3";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "dicht met kwarts"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:16   rdf:type           skos:Concept;
-        dc:identifier      "16";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "milleriet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:10   rdf:type           skos:Concept;
-        dc:identifier      "10";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "galeniet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:4    rdf:type           skos:Concept;
-        dc:identifier      "4";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "open met carbonaat"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:20   rdf:type           skos:Concept;
-        dc:identifier      "20";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "mangaan"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:17   rdf:type           skos:Concept;
-        dc:identifier      "17";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "gips"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:11   rdf:type           skos:Concept;
-        dc:identifier      "11";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "pyriet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:5    rdf:type           skos:Concept;
-        dc:identifier      "5";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "dicht met carbonaat"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:21   rdf:type           skos:Concept;
-        dc:identifier      "21";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "klei (groen)"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:18   rdf:type           skos:Concept;
-        dc:identifier      "18";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "anhydriet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:12   rdf:type           skos:Concept;
-        dc:identifier      "12";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "calciet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:6    rdf:type           skos:Concept;
-        dc:identifier      "6";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "sulfide"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:0    rdf:type           skos:Concept;
-        dc:identifier      "0";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "onbepaald"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:22   rdf:type           skos:Concept;
-        dc:identifier      "22";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "blinkend / kolig / bitumineus"@nl;
-        skos:topConceptOf  cs:adertype .
-
-cs:adertype  skos:hasTopConcept  ct:1 , ct:19 , ct:13 , ct:7 , ct:14 , ct:16 , ct:21 , ct:4 , ct:15 , ct:17 , ct:11 , ct:22 , ct:5 , ct:12 , ct:8 , ct:2 , ct:9 , ct:20 , ct:3 , ct:10 , ct:0 , ct:18 , ct:23 , ct:6 .
-
-ct:19   rdf:type           skos:Concept;
-        dc:identifier      "19";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "haliet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:13   rdf:type           skos:Concept;
-        dc:identifier      "13";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "dolomiet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-colt:adertype  rdf:type       skos:Collection;
-        dc:identifier         "adertype";
-        skos:inScheme         <file:///tmp/RtmpE7BThP/cs>;
-        skos:mappingRelation  <file:///tmp/RtmpE7BThP/adertype>;
-        skos:member           ct:15 , ct:11 , ct:1 , ct:12 , ct:18 , ct:8 , ct:21 , ct:2 , ct:9 , ct:22 , ct:3 , ct:19 , ct:10 , ct:16 , ct:6 , ct:7 , ct:17 , ct:13 , ct:20 , ct:14 , ct:23 , ct:4 , ct:0 , ct:5;
-        skos:prefLabel        "Collectie van adertype."@nl .
-
-ct:7    rdf:type           skos:Concept;
-        dc:identifier      "7";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "gemengd"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:1    rdf:type           skos:Concept;
-        dc:identifier      "1";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "kaoliniet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:23   rdf:type           skos:Concept;
-        dc:identifier      "23";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "chalcopyriet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:14   rdf:type           skos:Concept;
-        dc:identifier      "14";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "hatchettiet"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:8    rdf:type           skos:Concept;
-        dc:identifier      "8";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "breccie"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:2    rdf:type           skos:Concept;
-        dc:identifier      "2";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "open met kwarts"@nl;
-        skos:topConceptOf  cs:adertype .
-
-ct:15   rdf:type           skos:Concept;
-        dc:identifier      "15";
-        skos:inScheme      cs:adertype;
-        skos:prefLabel     "kwarts"@nl;
-        skos:topConceptOf  cs:adertype .
+collectie:adertype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.collection.adertype.adertype";
+    a skos:Collection;
+    skos:inScheme conceptscheme:adertype;
+    skos:member <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9>;
+    skos:notation "collectie_adertypes";
+    skos:prefLabel "Collectie van adertype."@nl.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.0";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "0";
+    skos:prefLabel "onbepaald"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.10";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "10";
+    skos:prefLabel "galeniet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.11";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "11";
+    skos:prefLabel "pyriet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.12";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "12";
+    skos:prefLabel "calciet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.13";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "13";
+    skos:prefLabel "dolomiet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.14";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "14";
+    skos:prefLabel "hatchettiet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.15";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "15";
+    skos:prefLabel "kwarts"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.16";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "16";
+    skos:prefLabel "milleriet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.17";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "17";
+    skos:prefLabel "gips"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.18";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "18";
+    skos:prefLabel "anhydriet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.19";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "19";
+    skos:prefLabel "haliet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.1";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "1";
+    skos:prefLabel "kaoliniet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.20";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "20";
+    skos:prefLabel "mangaan"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.21";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "21";
+    skos:prefLabel "klei (groen)"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.22";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "22";
+    skos:prefLabel "blinkend / kolig / bitumineus"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.23";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "23";
+    skos:prefLabel "chalcopyriet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.2";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "2";
+    skos:prefLabel "open met kwarts"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.3";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "3";
+    skos:prefLabel "dicht met kwarts"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.4";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "4";
+    skos:prefLabel "open met carbonaat"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.5";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "5";
+    skos:prefLabel "dicht met carbonaat"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.6";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "6";
+    skos:prefLabel "sulfide"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.7";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "7";
+    skos:prefLabel "gemengd"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.8";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "8";
+    skos:prefLabel "breccie"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.9";
+    a skos:Concept;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "9";
+    skos:prefLabel "blende"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+conceptscheme:adertype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.adertype";
+    a skos:ConceptScheme;
+    skos:hasTopConcept <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9>;
+    skos:notation "adertypes";
+    skos:prefLabel "adertypes"@nl.
