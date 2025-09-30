@@ -54,158 +54,261 @@
 @prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-collectie:adertype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.collection.adertype.adertype";
-    a skos:Collection;
-    skos:inScheme conceptscheme:adertype;
-    skos:member <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9>;
-    skos:notation "collectie_adertypes";
-    skos:prefLabel "Collectie van adertype."@nl.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.0";
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> a skos:Concept;
+    skos:closeMatch concept:CA;
+    skos:mappingRelation concept:CA;
+    skos:semanticRelation concept:CA.
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> a skos:Concept;
+    skos:closeMatch concept:PY;
+    skos:mappingRelation concept:PY;
+    skos:semanticRelation concept:PY.
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> a skos:Concept;
+    skos:closeMatch concept:KD, concept:KO, concept:KW;
+    skos:mappingRelation concept:KD, concept:KO, concept:KW;
+    skos:semanticRelation concept:KD, concept:KO, concept:KW.
+<http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> a skos:Concept;
+    skos:closeMatch concept:DO;
+    skos:mappingRelation concept:DO;
+    skos:semanticRelation concept:DO.
+<http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> a skos:Concept;
+    skos:closeMatch concept:AN;
+    skos:mappingRelation concept:AN;
+    skos:semanticRelation concept:AN.
+concept:AN dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.AN";
     a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite>;
+    skos:definition "Ader gevuld met anhydriet, de ongehydrateerde variant van het evaporitische mineraal gips."@nl;
     skos:inScheme conceptscheme:adertype;
-    skos:notation "0";
-    skos:prefLabel "onbepaald"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.10";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "10";
-    skos:prefLabel "galeniet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.11";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "11";
-    skos:prefLabel "pyriet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.12";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "12";
-    skos:prefLabel "calciet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.13";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "13";
-    skos:prefLabel "dolomiet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.14";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "14";
-    skos:prefLabel "hatchettiet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.15";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "15";
-    skos:prefLabel "kwarts"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.16";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "16";
-    skos:prefLabel "milleriet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.17";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "17";
-    skos:prefLabel "gips"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.18";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "18";
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite>;
+    skos:notation "AN";
+    skos:note "Ader gevuld met anhydriet, de ongehydrateerde variant van het evaporitische mineraal gips."@nl;
     skos:prefLabel "anhydriet"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite>;
     skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.19";
+concept:BI dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BI";
     a skos:Concept;
+    skos:definition "Ader gevuld met materiaal een met verhoogd gehalte organische stof."@nl;
     skos:inScheme conceptscheme:adertype;
-    skos:notation "19";
-    skos:prefLabel "haliet"@nl;
+    skos:notation "BI";
+    skos:note "Ader gevuld met materiaal een met verhoogd gehalte organische stof."@nl;
+    skos:prefLabel "kolig / bitumineus"@nl;
     skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.1";
+concept:BL dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BL";
     a skos:Concept;
+    skos:definition "Ader gevuld met zinkblende (sfaleriet, zinksulfide)."@nl;
     skos:inScheme conceptscheme:adertype;
-    skos:notation "1";
-    skos:prefLabel "kaoliniet"@nl;
+    skos:notation "BL";
+    skos:note "Ader gevuld met zinkblende (sfaleriet, zinksulfide)."@nl;
+    skos:prefLabel "blende"@nl;
     skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.20";
+concept:BR dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BR";
     a skos:Concept;
+    skos:definition "Ader gevuld met breccie, bestaande uit hoekige steenfragmenten in een fijnere matrix."@nl;
     skos:inScheme conceptscheme:adertype;
-    skos:notation "20";
-    skos:prefLabel "mangaan"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.21";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "21";
-    skos:prefLabel "klei (groen)"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.22";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "22";
-    skos:prefLabel "blinkend / kolig / bitumineus"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.23";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "23";
-    skos:prefLabel "chalcopyriet"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.2";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "2";
-    skos:prefLabel "open met kwarts"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.3";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "3";
-    skos:prefLabel "dicht met kwarts"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.4";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "4";
-    skos:prefLabel "open met carbonaat"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.5";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "5";
-    skos:prefLabel "dicht met carbonaat"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.6";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "6";
-    skos:prefLabel "sulfide"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.7";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "7";
-    skos:prefLabel "gemengd"@nl;
-    skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.8";
-    a skos:Concept;
-    skos:inScheme conceptscheme:adertype;
-    skos:notation "8";
+    skos:notation "BR";
+    skos:note "Ader gevuld met breccie, bestaande uit hoekige steenfragmenten in een fijnere matrix."@nl;
     skos:prefLabel "breccie"@nl;
     skos:topConceptOf conceptscheme:adertype.
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.9";
+concept:CA dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CA";
     a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite>;
+    skos:definition "Ader gevuld met calciet, kristallijn calciumcarbonaat."@nl;
     skos:inScheme conceptscheme:adertype;
-    skos:notation "9";
-    skos:prefLabel "blende"@nl;
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite>;
+    skos:notation "CA";
+    skos:note "Ader gevuld met calciet, kristallijn calciumcarbonaat."@nl;
+    skos:prefLabel "calciet"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:CD dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CD";
+    a skos:Concept;
+    skos:definition "Ader gevuld met carbonaat, volledig dichtgegroeid."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "CD";
+    skos:note "Ader gevuld met carbonaat, volledig dichtgegroeid."@nl;
+    skos:prefLabel "dicht met carbonaat"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:CH dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CH";
+    a skos:Concept;
+    skos:definition "Ader gevuld met chalcopyriet (koperijzersulfide)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "CH";
+    skos:note "Ader gevuld met chalcopyriet (koperijzersulfide)."@nl;
+    skos:prefLabel "chalcopyriet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:CO dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CO";
+    a skos:Concept;
+    skos:definition "Ader deels gevuld met carbonaat, met open holtes."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "CO";
+    skos:note "Ader deels gevuld met carbonaat, met open holtes."@nl;
+    skos:prefLabel "open met carbonaat"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:DO dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.DO";
+    a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite>;
+    skos:definition "Ader gevuld met dolomiet (calciummagnesiumcarbonaat)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite>;
+    skos:notation "DO";
+    skos:note "Ader gevuld met dolomiet (calciummagnesiumcarbonaat)."@nl;
+    skos:prefLabel "dolomiet"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:GA dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GA";
+    a skos:Concept;
+    skos:definition "Ader gevuld met galeniet (loodsulfide)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "GA";
+    skos:note "Ader gevuld met galeniet (loodsulfide)."@nl;
+    skos:prefLabel "galeniet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:GE dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GE";
+    a skos:Concept;
+    skos:definition "Ader gevuld met meerdere bestanddelen."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "GE";
+    skos:note "Ader gevuld met meerdere bestanddelen."@nl;
+    skos:prefLabel "gemengd"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:GI dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GI";
+    a skos:Concept;
+    skos:closeMatch <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum>;
+    skos:definition "Ader gevuld met gips (gehydrateerd calciumsulfaat)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum>;
+    skos:notation "GI";
+    skos:note "Ader gevuld met gips (gehydrateerd calciumsulfaat)."@nl;
+    skos:prefLabel "gips"@nl;
+    skos:semanticRelation <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:HA dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.HA";
+    a skos:Concept;
+    skos:closeMatch <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt>;
+    skos:definition "Ader gevuld met haliet (steenzout, natriumchloride)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt>;
+    skos:notation "HA";
+    skos:note "Ader gevuld met haliet (steenzout, natriumchloride)."@nl;
+    skos:prefLabel "haliet"@nl;
+    skos:semanticRelation <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:HT dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.HT";
+    a skos:Concept;
+    skos:definition "Ader gevuld met hatchettiet (mineraal koolwaterstof)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "HT";
+    skos:note "Ader gevuld met hatchettiet (mineraal koolwaterstof)."@nl;
+    skos:prefLabel "hatchettiet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:KA dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KA";
+    a skos:Concept;
+    skos:closeMatch <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin>;
+    skos:definition "Ader gevuld met kaoliniet, een verweerd wit kleimineraal."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin>;
+    skos:notation "KA";
+    skos:note "Ader gevuld met kaoliniet, een verweerd wit kleimineraal."@nl;
+    skos:prefLabel "kaoliniet"@nl;
+    skos:semanticRelation <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:KD dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KD";
+    a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:definition "Ader gevuld met kwarts (kristallijn siliciumdioxide), volledig dichtgegroeid."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:notation "KD";
+    skos:note "Ader gevuld met kwarts (kristallijn siliciumdioxide), volledig dichtgegroeid."@nl;
+    skos:prefLabel "dicht met kwarts"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:KL dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KL";
+    a skos:Concept;
+    skos:definition "Ader gevuld met klei."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "KL";
+    skos:note "Ader gevuld met klei."@nl;
+    skos:prefLabel "klei (groen)"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:KO dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KO";
+    a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:definition "Ader deels gevuld met kwarts (kristallijn siliciumdioxide), met open holtes."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:notation "KO";
+    skos:note "Ader deels gevuld met kwarts (kristallijn siliciumdioxide), met open holtes."@nl;
+    skos:prefLabel "open met kwarts"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:KW dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KW";
+    a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:definition "Ader gevuld met kwarts (kristallijn siliciumdioxide)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:notation "KW";
+    skos:note "Ader gevuld met kwarts (kristallijn siliciumdioxide)."@nl;
+    skos:prefLabel "kwarts"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:MA dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.MA";
+    a skos:Concept;
+    skos:definition "Ader gevuld met mangaanmineralen."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "MA";
+    skos:note "Ader gevuld met mangaanmineralen."@nl;
+    skos:prefLabel "mangaan"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:MI dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.MI";
+    a skos:Concept;
+    skos:definition "Ader gevuld met milleriet (nikkelsulfide)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "MI";
+    skos:note "Ader gevuld met milleriet (nikkelsulfide)."@nl;
+    skos:prefLabel "milleriet"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:ON dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.ON";
+    a skos:Concept;
+    skos:definition "Ader gevuld met onbepaalde bestanddelen."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "ON";
+    skos:note "Ader gevuld met onbepaalde bestanddelen."@nl;
+    skos:prefLabel "onbepaald"@nl;
+    skos:topConceptOf conceptscheme:adertype.
+concept:PY dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.PY";
+    a skos:Concept;
+    skos:closeMatch <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite>;
+    skos:definition "Ader gevuld met pyriet (ijzersulfide)."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:mappingRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite>;
+    skos:notation "PY";
+    skos:note "Ader gevuld met pyriet (ijzersulfide)."@nl;
+    skos:prefLabel "pyriet"@nl;
+    skos:semanticRelation <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite>;
+    skos:topConceptOf conceptscheme:adertype.
+concept:SU dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.SU";
+    a skos:Concept;
+    skos:definition "Ader gevuld met sulfidemineralen."@nl;
+    skos:inScheme conceptscheme:adertype;
+    skos:notation "SU";
+    skos:note "Ader gevuld met sulfidemineralen."@nl;
+    skos:prefLabel "sulfide"@nl;
     skos:topConceptOf conceptscheme:adertype.
 conceptscheme:adertype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.adertype";
     a skos:ConceptScheme;
-    skos:hasTopConcept <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9>;
-    skos:notation "adertypes";
-    skos:prefLabel "adertypes"@nl.
+    skos:hasTopConcept concept:AN, concept:BI, concept:BL, concept:BR, concept:CA, concept:CD, concept:CH, concept:CO, concept:DO, concept:GA, concept:GE, concept:GI, concept:HA, concept:HT, concept:KA, concept:KD, concept:KL, concept:KO, concept:KW, concept:MA, concept:MI, concept:ON, concept:PY, concept:SU;
+    skos:prefLabel "lijst met adertypes"@nl.
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> a skos:Concept;
+    skos:closeMatch concept:GI;
+    skos:mappingRelation concept:GI;
+    skos:semanticRelation concept:GI.
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> a skos:Concept;
+    skos:closeMatch concept:KA;
+    skos:mappingRelation concept:KA;
+    skos:semanticRelation concept:KA.
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> a skos:Concept;
+    skos:closeMatch concept:HA;
+    skos:mappingRelation concept:HA;
+    skos:semanticRelation concept:HA.

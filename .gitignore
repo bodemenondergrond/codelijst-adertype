@@ -19,3 +19,4 @@ buildNumber.properties
 codelijst-adertype.iml
 src/.env
 src/utils/setenv.js
+node_modules/

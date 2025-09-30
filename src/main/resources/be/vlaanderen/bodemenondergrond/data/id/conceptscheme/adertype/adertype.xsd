@@ -2,30 +2,30 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:be.vlaanderen.bodemenondergrond.data.id.graph:codelijst-adertype">
   <xs:simpleType name="be.vlaanderen.bodemenondergrond.data.id.conceptscheme.adertype">
     <xs:restriction base="xs:string">
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8" />
-      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU" />
     </xs:restriction>
   </xs:simpleType>
 </xs:schema>

@@ -1,27 +1,26 @@
-uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
-conceptscheme:adertype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.adertype,,adertypes,adertypes,,,,,,,,,,,,,,,,,,,,
-collectie:adertype,be.vlaanderen.bodemenondergrond.data.id.collection.adertype.adertype,,collectie_adertypes,Collectie van adertype.,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,
-concept:18,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.18,collectie:adertype,18,anhydriet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:9,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.9,collectie:adertype,9,blende,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:22,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.22,collectie:adertype,22,blinkend / kolig / bitumineus,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:8,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.8,collectie:adertype,8,breccie,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:12,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.12,collectie:adertype,12,calciet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:23,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.23,collectie:adertype,23,chalcopyriet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:5,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.5,collectie:adertype,5,dicht met carbonaat,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:3,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.3,collectie:adertype,3,dicht met kwarts,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:13,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.13,collectie:adertype,13,dolomiet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:10,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.10,collectie:adertype,10,galeniet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:7,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.7,collectie:adertype,7,gemengd,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:17,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.17,collectie:adertype,17,gips,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:19,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.19,collectie:adertype,19,haliet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:14,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.14,collectie:adertype,14,hatchettiet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:1,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.1,collectie:adertype,1,kaoliniet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:21,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.21,collectie:adertype,21,klei (groen),,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:15,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.15,collectie:adertype,15,kwarts,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:20,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.20,collectie:adertype,20,mangaan,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:16,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.16,collectie:adertype,16,milleriet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:0,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.0,collectie:adertype,0,onbepaald,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:4,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.4,collectie:adertype,4,open met carbonaat,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:2,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.2,collectie:adertype,2,open met kwarts,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:11,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.11,collectie:adertype,11,pyriet,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
-concept:6,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.6,collectie:adertype,6,sulfide,,,,,,,,,,,,,conceptscheme:adertype,,,,,,,conceptscheme:adertype
+uri,dc.identifier,notation,prefLabel,closeMatch,definition,inScheme,topConceptOf
+conceptscheme:adertype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.adertype,,lijst met adertypes,,"",,
+concept:AN,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.AN,AN,anhydriet,http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite,"Ader gevuld met anhydriet, de ongehydrateerde variant van het evaporitische mineraal gips.",conceptscheme:adertype,conceptscheme:adertype
+concept:BL,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BL,BL,blende,,"Ader gevuld met zinkblende (sfaleriet, zinksulfide).",conceptscheme:adertype,conceptscheme:adertype
+concept:BI,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BI,BI,kolig / bitumineus,,"Ader gevuld met materiaal een met verhoogd gehalte organische stof.",conceptscheme:adertype,conceptscheme:adertype
+concept:BR,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BR,BR,breccie,,"Ader gevuld met breccie, bestaande uit hoekige steenfragmenten in een fijnere matrix.",conceptscheme:adertype,conceptscheme:adertype
+concept:CA,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CA,CA,calciet,http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite,"Ader gevuld met calciet, kristallijn calciumcarbonaat. ",conceptscheme:adertype,conceptscheme:adertype
+concept:CH,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CH,CH,chalcopyriet,,"Ader gevuld met chalcopyriet (koperijzersulfide).",conceptscheme:adertype,conceptscheme:adertype
+concept:CD,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CD,CD,dicht met carbonaat,,"Ader gevuld met carbonaat, volledig dichtgegroeid. ",conceptscheme:adertype,conceptscheme:adertype
+concept:KD,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KD,KD,dicht met kwarts,http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz,"Ader gevuld met kwarts (kristallijn siliciumdioxide), volledig dichtgegroeid.",conceptscheme:adertype,conceptscheme:adertype
+concept:DO,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.DO,DO,dolomiet,http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite,"Ader gevuld met dolomiet (calciummagnesiumcarbonaat).",conceptscheme:adertype,conceptscheme:adertype
+concept:GA,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GA,GA,galeniet,,"Ader gevuld met galeniet (loodsulfide).",conceptscheme:adertype,conceptscheme:adertype
+concept:GE,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GE,GE,gemengd,,"Ader gevuld met meerdere bestanddelen.",conceptscheme:adertype,conceptscheme:adertype
+concept:GI,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GI,GI,gips,https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum,"Ader gevuld met gips (gehydrateerd calciumsulfaat).",conceptscheme:adertype,conceptscheme:adertype
+concept:HA,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.HA,HA,haliet,https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt,"Ader gevuld met haliet (steenzout, natriumchloride).",conceptscheme:adertype,conceptscheme:adertype
+concept:HT,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.HT,HT,hatchettiet,,"Ader gevuld met hatchettiet (mineraal koolwaterstof).",conceptscheme:adertype,conceptscheme:adertype
+concept:KA,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KA,KA,kaoliniet,https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin,"Ader gevuld met kaoliniet, een verweerd wit kleimineraal.",conceptscheme:adertype,conceptscheme:adertype
+concept:KL,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KL,KL,klei (groen),,"Ader gevuld met klei.",conceptscheme:adertype,conceptscheme:adertype
+concept:KW,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KW,KW,kwarts,http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz,"Ader gevuld met kwarts (kristallijn siliciumdioxide).",conceptscheme:adertype,conceptscheme:adertype
+concept:MA,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.MA,MA,mangaan,,"Ader gevuld met mangaanmineralen.",conceptscheme:adertype,conceptscheme:adertype
+concept:MI,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.MI,MI,milleriet,,"Ader gevuld met milleriet (nikkelsulfide).",conceptscheme:adertype,conceptscheme:adertype
+concept:ON,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.ON,ON,onbepaald,,"Ader gevuld met onbepaalde bestanddelen.",conceptscheme:adertype,conceptscheme:adertype
+concept:CO,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CO,CO,open met carbonaat,,"Ader deels gevuld met carbonaat, met open holtes. ",conceptscheme:adertype,conceptscheme:adertype
+concept:KO,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KO,KO,open met kwarts,http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz,"Ader deels gevuld met kwarts (kristallijn siliciumdioxide), met open holtes. ",conceptscheme:adertype,conceptscheme:adertype
+concept:PY,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.PY,PY,pyriet,http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite,"Ader gevuld met pyriet (ijzersulfide).",conceptscheme:adertype,conceptscheme:adertype
+concept:SU,be.vlaanderen.bodemenondergrond.data.id.concept.adertype.SU,SU,sulfide,,"Ader gevuld met sulfidemineralen.",conceptscheme:adertype,conceptscheme:adertype

@@ -1,201 +1,287 @@
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.collection.adertype.adertype" .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#notation> "collectie_adertypes" .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/adertype/adertype> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectie van adertype."@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.0" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> <http://www.w3.org/2004/02/skos/core#notation> "0" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> <http://www.w3.org/2004/02/skos/core#prefLabel> "onbepaald"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.10" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> <http://www.w3.org/2004/02/skos/core#notation> "10" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> <http://www.w3.org/2004/02/skos/core#prefLabel> "galeniet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.11" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> <http://www.w3.org/2004/02/skos/core#notation> "11" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> <http://www.w3.org/2004/02/skos/core#prefLabel> "pyriet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.12" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> <http://www.w3.org/2004/02/skos/core#notation> "12" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> <http://www.w3.org/2004/02/skos/core#prefLabel> "calciet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.13" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> <http://www.w3.org/2004/02/skos/core#notation> "13" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> <http://www.w3.org/2004/02/skos/core#prefLabel> "dolomiet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.14" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> <http://www.w3.org/2004/02/skos/core#notation> "14" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> <http://www.w3.org/2004/02/skos/core#prefLabel> "hatchettiet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.15" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> <http://www.w3.org/2004/02/skos/core#notation> "15" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> <http://www.w3.org/2004/02/skos/core#prefLabel> "kwarts"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.16" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> <http://www.w3.org/2004/02/skos/core#notation> "16" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> <http://www.w3.org/2004/02/skos/core#prefLabel> "milleriet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.17" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> <http://www.w3.org/2004/02/skos/core#notation> "17" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> <http://www.w3.org/2004/02/skos/core#prefLabel> "gips"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.18" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> <http://www.w3.org/2004/02/skos/core#notation> "18" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> <http://www.w3.org/2004/02/skos/core#prefLabel> "anhydriet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.19" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> <http://www.w3.org/2004/02/skos/core#notation> "19" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> <http://www.w3.org/2004/02/skos/core#prefLabel> "haliet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.1" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> <http://www.w3.org/2004/02/skos/core#notation> "1" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaoliniet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.20" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> <http://www.w3.org/2004/02/skos/core#notation> "20" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> <http://www.w3.org/2004/02/skos/core#prefLabel> "mangaan"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.21" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> <http://www.w3.org/2004/02/skos/core#notation> "21" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> <http://www.w3.org/2004/02/skos/core#prefLabel> "klei (groen)"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.22" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> <http://www.w3.org/2004/02/skos/core#notation> "22" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> <http://www.w3.org/2004/02/skos/core#prefLabel> "blinkend / kolig / bitumineus"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.23" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> <http://www.w3.org/2004/02/skos/core#notation> "23" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> <http://www.w3.org/2004/02/skos/core#prefLabel> "chalcopyriet"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.2" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> <http://www.w3.org/2004/02/skos/core#notation> "2" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> <http://www.w3.org/2004/02/skos/core#prefLabel> "open met kwarts"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.3" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> <http://www.w3.org/2004/02/skos/core#notation> "3" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicht met kwarts"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.4" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> <http://www.w3.org/2004/02/skos/core#notation> "4" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> <http://www.w3.org/2004/02/skos/core#prefLabel> "open met carbonaat"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.5" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> <http://www.w3.org/2004/02/skos/core#notation> "5" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicht met carbonaat"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.6" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> <http://www.w3.org/2004/02/skos/core#notation> "6" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfide"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.7" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> <http://www.w3.org/2004/02/skos/core#notation> "7" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> <http://www.w3.org/2004/02/skos/core#prefLabel> "gemengd"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.8" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> <http://www.w3.org/2004/02/skos/core#notation> "8" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> <http://www.w3.org/2004/02/skos/core#prefLabel> "breccie"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.9" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> <http://www.w3.org/2004/02/skos/core#notation> "9" .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> <http://www.w3.org/2004/02/skos/core#prefLabel> "blende"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> .
+<http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> .
+<http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.AN" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met anhydriet, de ongehydrateerde variant van het evaporitische mineraal gips."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#notation> "AN" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met anhydriet, de ongehydrateerde variant van het evaporitische mineraal gips."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#prefLabel> "anhydriet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/LithologyValue/gypsumOrAnhydrite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BI" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met materiaal een met verhoogd gehalte organische stof."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/2004/02/skos/core#notation> "BI" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met materiaal een met verhoogd gehalte organische stof."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/2004/02/skos/core#prefLabel> "kolig / bitumineus"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BL" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met zinkblende (sfaleriet, zinksulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/2004/02/skos/core#notation> "BL" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met zinkblende (sfaleriet, zinksulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/2004/02/skos/core#prefLabel> "blende"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.BR" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met breccie, bestaande uit hoekige steenfragmenten in een fijnere matrix."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/2004/02/skos/core#notation> "BR" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met breccie, bestaande uit hoekige steenfragmenten in een fijnere matrix."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/2004/02/skos/core#prefLabel> "breccie"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met calciet, kristallijn calciumcarbonaat."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#notation> "CA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met calciet, kristallijn calciumcarbonaat."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#prefLabel> "calciet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/calcite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CD" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met carbonaat, volledig dichtgegroeid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/2004/02/skos/core#notation> "CD" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met carbonaat, volledig dichtgegroeid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicht met carbonaat"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CH" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met chalcopyriet (koperijzersulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/2004/02/skos/core#notation> "CH" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met chalcopyriet (koperijzersulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/2004/02/skos/core#prefLabel> "chalcopyriet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.CO" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/2004/02/skos/core#definition> "Ader deels gevuld met carbonaat, met open holtes."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/2004/02/skos/core#notation> "CO" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/2004/02/skos/core#note> "Ader deels gevuld met carbonaat, met open holtes."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/2004/02/skos/core#prefLabel> "open met carbonaat"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.DO" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met dolomiet (calciummagnesiumcarbonaat)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#notation> "DO" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met dolomiet (calciummagnesiumcarbonaat)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#prefLabel> "dolomiet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/LithologyValue/dolomite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met galeniet (loodsulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/2004/02/skos/core#notation> "GA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met galeniet (loodsulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/2004/02/skos/core#prefLabel> "galeniet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GE" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met meerdere bestanddelen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/2004/02/skos/core#notation> "GE" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met meerdere bestanddelen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/2004/02/skos/core#prefLabel> "gemengd"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.GI" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met gips (gehydrateerd calciumsulfaat)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#notation> "GI" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met gips (gehydrateerd calciumsulfaat)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#prefLabel> "gips"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.HA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met haliet (steenzout, natriumchloride)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#notation> "HA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met haliet (steenzout, natriumchloride)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#prefLabel> "haliet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.HT" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met hatchettiet (mineraal koolwaterstof)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/2004/02/skos/core#notation> "HT" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met hatchettiet (mineraal koolwaterstof)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/2004/02/skos/core#prefLabel> "hatchettiet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met kaoliniet, een verweerd wit kleimineraal."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#notation> "KA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met kaoliniet, een verweerd wit kleimineraal."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaoliniet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KD" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met kwarts (kristallijn siliciumdioxide), volledig dichtgegroeid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#notation> "KD" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met kwarts (kristallijn siliciumdioxide), volledig dichtgegroeid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicht met kwarts"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KL" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met klei."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/2004/02/skos/core#notation> "KL" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met klei."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/2004/02/skos/core#prefLabel> "klei (groen)"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KO" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#definition> "Ader deels gevuld met kwarts (kristallijn siliciumdioxide), met open holtes."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#notation> "KO" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#note> "Ader deels gevuld met kwarts (kristallijn siliciumdioxide), met open holtes."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#prefLabel> "open met kwarts"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.KW" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met kwarts (kristallijn siliciumdioxide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#notation> "KW" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met kwarts (kristallijn siliciumdioxide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#prefLabel> "kwarts"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/quartz> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.MA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met mangaanmineralen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/2004/02/skos/core#notation> "MA" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met mangaanmineralen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/2004/02/skos/core#prefLabel> "mangaan"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.MI" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met milleriet (nikkelsulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/2004/02/skos/core#notation> "MI" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met milleriet (nikkelsulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/2004/02/skos/core#prefLabel> "milleriet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.ON" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met onbepaalde bestanddelen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/2004/02/skos/core#notation> "ON" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met onbepaalde bestanddelen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/2004/02/skos/core#prefLabel> "onbepaald"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.PY" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met pyriet (ijzersulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#mappingRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#notation> "PY" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met pyriet (ijzersulfide)."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#prefLabel> "pyriet"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#semanticRelation> <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.adertype.SU" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/2004/02/skos/core#definition> "Ader gevuld met sulfidemineralen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/2004/02/skos/core#notation> "SU" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/2004/02/skos/core#note> "Ader gevuld met sulfidemineralen."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfide"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.adertype" .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/0> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/10> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/11> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/12> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/13> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/14> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/15> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/16> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/17> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/18> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/19> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/1> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/20> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/21> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/22> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/23> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/2> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/3> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/4> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/5> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/6> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/7> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/8> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/9> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#notation> "adertypes" .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#prefLabel> "adertypes"@nl .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/AN> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BI> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BL> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/BR> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CA> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CD> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CH> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/CO> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/DO> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GA> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GE> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HT> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KD> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KL> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KO> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KW> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MA> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/MI> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/ON> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/PY> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/SU> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/adertype> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijst met adertypes"@nl .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/gypsum> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/GI> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/kaolin> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/KA> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> <http://www.w3.org/2004/02/skos/core#closeMatch> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> <http://www.w3.org/2004/02/skos/core#mappingRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> .
+<https://inspire.ec.europa.eu/codelist/CommodityCodeValue/salt> <http://www.w3.org/2004/02/skos/core#semanticRelation> <https://data.bodemenondergrond.vlaanderen.be/id/concept/adertype/HA> .
